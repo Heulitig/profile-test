@@ -1,0 +1,15 @@
+-- import: fastn
+
+-- fastn.package: heulitig.github.io/profile-test
+favicon: /-/heulitig.github.io/profile-test/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+
+-- fastn.auto-import: heulitig.github.io/profile-test/FASTN/ds
+-- fastn.auto-import: heulitig.github.io/profile-test/assets
+-- fastn.auto-import: heulitig.github.io/profile-test/components/profile
+-- fastn.auto-import: heulitig.github.io/profile-test/components/social
+-- fastn.auto-import: doc-site
+
